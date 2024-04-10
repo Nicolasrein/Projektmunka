@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    background-image: url("r6background.png");
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: auto;
+    width: auto;
+    height: auto;
+    border: 10px;
+    border-style: solid;
+    border-color: black;
+}
+#about {
+font-style: oblique;
+}
+.container {
+font-style: oblique;
+font-size: auto;
+}
